@@ -1,6 +1,6 @@
 # Influencer Post Tracker
 
-A React-based web application for tracking influencer campaigns, managing post details, and monitoring campaign performance across social media platforms. Made with cursor and claude
+A React-based web application for tracking influencer campaigns, managing post details, and monitoring campaign performance across social media platforms. Made with cursor and claude. Live link :- https://influencer-tracker.vercel.app/
 
 ## 🚀 Features
 
